@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using BlazorEcommerce.Shared;
 
 namespace BlazorEcommerce.Server.Controllers;
 
